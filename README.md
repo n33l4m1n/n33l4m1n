@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @n33l4m1n
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# N33L4M1N
 
-<!---
-n33l4m1n/n33l4m1n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*Cybernetics in practice: turning science fiction into working systems, one documented experiment at a time.*
+
+- **Site:** [n33l4m1n.com](https://n33l4m1n.com)
+- **PGP:** `674B 1027 3F52 E488 418B  E727 ABF0 7C24 A57E DF67`
+  · `gpg --locate-keys admin@n33l4m1n.com` (WKD) · [pgp-public-key](https://github.com/n33l4m1n/pgp-public-key)
+- **ENS:** `n33l4m1n.eth`
